@@ -4,5 +4,5 @@
 
 ## Prelude
 
-* [PRG Vs. The World](prelude/prg-vs.-the-world.md)
+* [\[WIP\] PRG Vs. The World](prelude/prg-vs.-the-world.md)
 
